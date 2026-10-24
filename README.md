@@ -5,7 +5,7 @@ Este repositório contém a página web institucional da **Luminous**, uma empre
 
 ## 🔗 Acesse Já!
 
-https://sync633.github.io/luminous-website/
+https://portal-luminous.vercel.app/
 
 ---
 
